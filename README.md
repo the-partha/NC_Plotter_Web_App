@@ -33,7 +33,7 @@
 ### Install via pip
 ```bash
 # Clone or download this repository
-git clone https://github.com/your-username/nc-plotter-app.git
+git clone https://github.com/the-partha/NC_Plotter_Web_App.git
 cd nc-plotter-app
 
 # Create and activate virtual environment (recommended)
@@ -209,7 +209,7 @@ The application robustly handles common NetCDF errors:
 | **Plot colorbar scale seems off** | Use spatial subsetting to focus on your region of interest, which improves color scaling. |
 
 ### Need More Help?
-- Check the [Issues](https://github.com/your-username/nc-plotter-app/issues) page
+- Check the [Issues](https://github.com/the-partha/NC_Plotter_Web_App/issues) page
 - Ensure your NetCDF file follows CF conventions (units, long_name, standard_name attributes)
 - Contact support via the repository
 
@@ -262,10 +262,10 @@ SOFTWARE.
 
 ## 📞 Support & Feedback
 
-- **Report bugs**: Open an issue on the [GitHub repository](https://github.com/your-username/nc-plotter-app)
+- **Report bugs**: Open an issue on the [GitHub repository](https://github.com/the-partha/NC_Plotter_Web_App)
 - **Feature requests**: Submit a feature request on GitHub
-- **Questions**: Start a discussion on the [Discussions](https://github.com/your-username/nc-plotter-app/discussions) page
-- **Email**: your.email@domain.com
+- **Questions**: Start a discussion on the [Discussions](https://github.com/the-partha/NC_Plotter_Web_App/discussions) page
+- **Email**: contact@thepartha.in
 
 ---
 
